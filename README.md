@@ -1,6 +1,6 @@
-# small-data-visualization-samples
+# Echarts Visualization Samples
 
 This repo used to put single data visualizations:
 
-* network traffic anomaly and compromise detection
+* Network traffic anomaly and compromise detection
 * 
