@@ -1,4 +1,4 @@
-# small-data-visualization-samples
+# Network Traffic Anomly and Compromise Detection
 
 The dataset comes from Dr. Chiara Sabatti at Stanford University. It is the summary of some real network traffic data from the past. The dataset has ~21K rows and covers 10 local workstation IPs over a three month period. Half of these local IPs were compromised at some point during this period and became members of various botnets.
 
