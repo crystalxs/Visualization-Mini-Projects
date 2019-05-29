@@ -1,4 +1,4 @@
-# Echarts Visualization Samples
+# Visualization Projects
 
 This repo used to put single data visualizations:
 
